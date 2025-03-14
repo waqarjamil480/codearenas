@@ -22,9 +22,10 @@ body {
     margin-top: 30vh;
     pointer-events: all;
   }
-  .jumbo .jumbo-text {
+  .jumbo .jumbo-text,   .jumbo .jumbo-text a {
     color: #fff;
     font-size: 140%;
+    text-decoration: none;
   }
 
   .corp {
